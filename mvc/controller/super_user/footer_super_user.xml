@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='footer_super_user.xslt'?>
+<todos_os_objetos>
+  <todos_os_docentes>
+    <docente>
+      <matricula>1000</matricula>
+      <nome>André da Cunha Ribeiro</nome>
+      <senha>a65523808e983cf0447347807872d2a9</senha>
+      <ativo>1</ativo>
+    </docente>
+    <docente>
+      <matricula>1001</matricula>
+      <nome>TESTE</nome>
+      <senha>123</senha>
+      <ativo>1</ativo>
+    </docente>
+    <docente>
+      <matricula>3000</matricula>
+      <nome>Adriano Bailão</nome>
+      <senha>79df64f73eab9bc0d7b448d2008d876e</senha>
+      <ativo>1</ativo>
+    </docente>
+    <docente>
+      <matricula>2000</matricula>
+      <nome>Douglas Cedrim</nome>
+      <senha>3b16dc694c38d04f7d7451cc37d3c654</senha>
+      <ativo>0</ativo>
+    </docente>
+  </todos_os_docentes>
+</todos_os_objetos>
